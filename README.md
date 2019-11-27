@@ -1,5 +1,5 @@
 # CRM-Aplication
-CRUD Application using SpringMVC and Hibrenate
+CRUD Application using SpringMVC and Hibernate
 Some jar need to add:
 1)MYSQL connector
 2)To use Java Standard Tag Library provided tags in JSP pages we need some jar files.
